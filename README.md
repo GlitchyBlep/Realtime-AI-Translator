@@ -1,4 +1,3 @@
-```markdown
 # 🎬 Realtime Interpreter - 本地AI同传翻译器
 
 <p align="center">
@@ -233,4 +232,3 @@ TRANSLATION_MODEL = "qwen3.5:9b"  # 7b更快，9b更准
   <i>由一只高糊黑猫和无数杯咖啡共同维护</i><br>
   <i>Maintained by a blurry black cat and countless cups of coffee</i>
 </p>
-```
