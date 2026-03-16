@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GlitchyBlep/realtime-interpreter/main/screenshots/main_window.png" width="45%" alt="控制台界面">
-  <img src="https://raw.githubusercontent.com/GlitchyBlep/realtime-interpreter/main/screenshots/floating_window.png" width="45%" alt="悬浮窗界面">
+  <img src="screenshots/main_window.png" height="280" alt="控制台界面">
+  <img src="screenshots/floating_window.png" height="280" alt="悬浮窗同传实况">
 </p>
 
 ## 🐱‍💻 About the Author
