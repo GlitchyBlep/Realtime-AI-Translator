@@ -1,4 +1,4 @@
-# 🎬 Realtime Interpreter - 本地AI同传翻译器
+# 🎬 Offline Realtime AI Interpreter 
 
 > **[📄 点击查看中文说明文档 (Chinese Version)](README_zh.md)**
 
